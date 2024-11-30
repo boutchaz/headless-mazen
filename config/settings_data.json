@@ -1,17 +1,16 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "storefront_hostname": "01j660fq98g8hte9ns43d3pknv-65a8548096a7c06fadbf.myshopify.dev",
-    "content_for_index": [
-
-    ]
+    "favicon": "shopify://shop_images/Mazen_Atelier_LOGO_A22.jpg",
+    "content_for_index": []
   }
 }
